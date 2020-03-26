@@ -1,10 +1,10 @@
 Package: GARS
 Type: Package
-Date: 2018-10-09
+Date: 2020-03-26
 Title: GARS: Genetic Algorithm for the identification
  of Robust Subsets of variables in high-dimensional and challenging
  datasets
-Version: 1.7.0
+Version: 1.7.1
 Author: Mattia Chiesa <mattia.chiesa@hotmail.it>, 
     Luca Piacentini <luca.piacentini@cardiologicomonzino.it>
 Maintainer: Mattia Chiesa <mattia.chiesa@hotmail.it>
@@ -24,7 +24,7 @@ License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
 VignetteBuilder: knitr
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
 biocViews: Classification, FeatureExtraction, Clustering
 Imports: DaMiRseq, MLSeq, stats, methods, SummarizedExperiment
 Suggests: BiocStyle, knitr, testthat
