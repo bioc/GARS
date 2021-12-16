@@ -1,6 +1,0 @@
-# The reason this package is marked as unsupported on win32 is that it
-# depends on DaMiRseq which itself indirectly (via FSelector) depends on
-# rJava which itself requires the JDK. However it seems that Oracle no
-# longer provides the JDK for 32-bit windows:
-# https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
-UnsupportedPlatforms: win32
