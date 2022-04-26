@@ -4,7 +4,7 @@ Date: 2020-09-04
 Title: GARS: Genetic Algorithm for the identification
  of Robust Subsets of variables in high-dimensional and challenging
  datasets
-Version: 1.16.0
+Version: 1.17.0
 Author: Mattia Chiesa <mattia.chiesa@hotmail.it>, 
     Luca Piacentini <luca.piacentini@cardiologicomonzino.it>
 Maintainer: Mattia Chiesa <mattia.chiesa@hotmail.it>
